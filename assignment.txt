@@ -1,0 +1,13 @@
+MY WEEKEND ALGORITHM
+var wakeUp;
+var makeMyBed;
+var brushMyTeeth;
+var takeAShower;
+
+Link to j.s bin
+https://jsbin.com/zalalaciza/edit?js,console
+
+
+
+
+
